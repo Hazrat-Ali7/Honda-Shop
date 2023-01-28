@@ -1,0 +1,173 @@
+/*==========Fonts==========*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+
+
+
+
+
+/*========== Common Style Start ==========*/
+
+
+body
+{
+    font-family: 'Poppins'!important;
+}
+
+
+.hero-button
+{
+    background:#E76F51 !important;
+    color:#fff !important;
+}
+
+.hero-button-2
+{
+    border:2px solid #E76F51 !important;
+    color:#E76F51   !important;
+}
+
+.section-header-font
+{
+    font-size:35px;
+    font-weight: 600;
+}
+
+.section-container
+{
+    margin:100px 0 150px;
+}
+
+.container-header span
+{
+    color:#E76F51 !important;
+}
+
+.header-pera
+{
+    color:#E76F51;
+}
+
+.header-pera::after
+{
+    content:"";
+    height:1px;
+    width:50%;
+    background-color: #E76F51;
+    display: block;
+    margin:auto;
+}
+/*========== Common Style End ==========*/
+
+
+
+
+/*========== Header Custom Style Start ==========*/
+
+.header, .nav-color
+{
+    background-color:#264653;
+}
+
+.custom-nav-link a
+{
+    color:#fff !important;
+}
+
+.header-datails
+{
+    margin-top:20px;
+}
+
+/*========== Header Custom Style End ==========*/
+
+
+
+
+
+
+
+/*========== Fetured Bikes  Custom Style Start ==========*/
+.image-filter
+{
+    filter:grayscale(1);
+}
+/*========== Fetured Bikes  Custom Style End ==========*/
+
+
+
+
+/*========== Latest News Custom Style Start ==========*/
+.latest-news-card
+{
+    border:none;
+    box-shadow: 0 0 10px 0.5px #33333360;
+}
+/*========== Latest News Custom Style End ==========*/
+
+
+
+
+/*========== Happy Clients Custom Style Start ==========*/
+.clint-img img
+{
+
+    height: 100px;
+    width:100px;
+    border-radius: 50%;
+}
+
+.rating-icon
+{
+    color:#E76F51;
+    margin:10px 0;
+}
+
+.clint-name a
+{
+    text-decoration:none;
+    font-weight: 600;
+}
+/*========== Happy Clients Custom Style End ==========*/
+
+
+
+
+/*========== Brand Overview Custom Style Start ==========*/
+.single-brand img {
+    transition: .4s ease;
+    border: 1px solid transparent;
+}
+.single-brand img:hover {
+    box-shadow: 0 0 5px 3px rgba(170, 170, 170, .5);
+    border: 1px solid  rgba(170, 170, 170, .5);
+}
+/*========== Brand Overview Custom Style End==========*/
+
+
+
+/*========== Footer Custom Style Start==========*/
+.footer
+{
+    background-color:#0B0D17;
+}
+
+.footer-link a
+{
+    display:inline-block;
+    text-decoration:none;
+    margin:5px ;
+    color:#fff;
+}
+
+.footer-link a:hover
+{
+    color:#fff;
+}
+
+.copyright
+{
+    color:#D9DBE1;
+    margin:15px 0 0 0 ;
+}
+
+/*========== Footer Custom Style end==========*/
