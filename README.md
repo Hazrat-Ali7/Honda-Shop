@@ -1,6 +1,6 @@
 # Bike-Shop
 
-Project Name : Honda
+Project Name : Bike
 
  you can check out the live site link from: https://hazrat-ali-bike.netlify.app/
 
